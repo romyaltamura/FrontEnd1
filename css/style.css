@@ -1,0 +1,61 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.banner {
+background-image: url("/img/banner.jpg");
+height: 150px;
+background-size: cover;
+
+}
+
+h1{ font-size: 50 px;
+
+}
+
+.datos-personales{ 
+    background-color: pink;
+    width: 760px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+
+}
+
+#imagen-cv{
+    position: relative; left: 5%;
+    height: 170px; 
+    
+}
+
+h2{
+    font-size: 30px;
+}
+
+h3{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+h4{
+    color: blueviolet;
+    text-align: center;
+    font-size: 30px ;
+}
+
+.menu{ display: flex;
+
+}
+.menu li{ margin: 0 7px;
+
+}
+
+
+
+.iconos{
+    text-align: center;
+    font-size: 30px;
+}
+
+                                               
